@@ -1,19 +1,31 @@
 fileFormatVersion: 2
-guid: 0be25edef92b2794b8870047cb6cd046
+guid: 72b7d192a40df654b8117240b22d3cb3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2602937913026374498
-    second: Boulanje Sprite Down (1)_0
+      213: 5320115725626342198
+    second: Evett sprite right_0
   - first:
-      213: -6702080097352529835
-    second: Boulanje Sprite Down (1)_1
+      213: -8269916140262877920
+    second: Evett sprite right_1
   - first:
-      213: 3550374945440882895
-    second: Boulanje Sprite Down (1)_2
+      213: -5823606698167814056
+    second: Evett sprite right_2
   - first:
-      213: 4397428623381871313
-    second: Boulanje Sprite Down (1)_3
+      213: 664772486516273618
+    second: Evett sprite right_3
+  - first:
+      213: -1687003107122193883
+    second: Evett sprite right_4
+  - first:
+      213: 1768231745152442134
+    second: Evett sprite right_5
+  - first:
+      213: -3147074510695215479
+    second: Evett sprite right_6
+  - first:
+      213: 612999242206437389
+    second: Evett sprite right_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -43,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -98,85 +110,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Boulanje Sprite Down (1)_0
+      name: Evett sprite right_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 100
-        width: 40
-        height: 100
+        y: 50
+        width: 26
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51c6588fe7467bc469e006b07e8b3676
-      internalID: 2602937913026374498
+      spriteID: 5c2ab4a7dd6e83345a43bca882d19da3
+      internalID: 5320115725626342198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boulanje Sprite Down (1)_1
+      name: Evett sprite right_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 100
-        width: 40
-        height: 100
+        x: 26
+        y: 50
+        width: 26
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 482b49baf9e23284489a81274f88ecf2
-      internalID: -6702080097352529835
+      spriteID: 550b6128004019347a6a76cb4da5968f
+      internalID: -8269916140262877920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boulanje Sprite Down (1)_2
+      name: Evett sprite right_2
       rect:
         serializedVersion: 2
-        x: 80
-        y: 100
-        width: 40
-        height: 100
+        x: 52
+        y: 50
+        width: 26
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9041e58c2792944bba1b0ab97ee25e6
-      internalID: 3550374945440882895
+      spriteID: e9b30407ce9fa30468547c510305b4fe
+      internalID: -5823606698167814056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Boulanje Sprite Down (1)_3
+      name: Evett sprite right_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 50
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af52ef2cd3ad9c4ba05927bbe22d91a
+      internalID: 664772486516273618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evett sprite right_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 40
-        height: 100
+        width: 26
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07dfb0f34645a2243b7f3e42778f3ed9
-      internalID: 4397428623381871313
+      spriteID: 873bd10691099f0498cda39b19df898a
+      internalID: -1687003107122193883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evett sprite right_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b2822bca51bbf469d099fb83a74372
+      internalID: 1768231745152442134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evett sprite right_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fa5f7b26573c340807539b16408f11
+      internalID: -3147074510695215479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evett sprite right_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a5660919852fd449b09138ce6dd58c
+      internalID: 612999242206437389
       vertices: []
       indices: 
       edges: []
